@@ -3,6 +3,11 @@
   "buildCommand": null,
   "redirects": [
     {
+      "source": "/",
+      "destination": "https://crubier.notion.site/",
+      "permanent": true
+    },
+    {
       "source": "/:path",
       "destination": "https://crubier.notion.site/:path",
       "permanent": true
